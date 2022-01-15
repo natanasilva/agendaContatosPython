@@ -30,10 +30,10 @@ Contatos: [Site](https://www.natanet.xyz) | [Facebook](https://www.fb.com/natana
 Tecnologias utilizadas
 
 <p align="left">
-  <img alt="Logo do projeto" width="50px" src="https://www.python.org/static/img/python-logo.png" />
+  <img alt="Logo do projeto" width="150px" src="https://www.python.org/static/img/python-logo.png" />
 </p>
 <p align="left">
-  <img alt="Logo do projeto" width="50px" src="https://www.sqlite.org/images/sqlite370_banner.gif" />
+  <img alt="Logo do projeto" width="150px" src="https://www.sqlite.org/images/sqlite370_banner.gif" />
 </p>
 
 
