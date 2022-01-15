@@ -8,7 +8,7 @@ Agenda telefônica desenvolvida em Python, realizando o armazenamento e gerencia
   <img alt="Logo do projeto" width="450px" src="https://play-lh.googleusercontent.com/Nkfssvv_KFyyWqFJMy-M3b3ozXKYbhfiFm91K6BPEFh4IwpOe6D-ssMMs_aOSf_evIh6=w412-h732-rw" />
 </p>
 
-> Projeto construido durante o curso de Python da Universidade do Trabalho Digital [Imersão React da Alura](https://www.alura.com.br/imersao-react/)
+> Projeto construido durante o curso de Python da Universidade do Trabalho Digital [UTD](https://www.cursosutd.inf.br/)
 
 > Requisitos: Python 2.5 (ou superior, módulo incluso)
 
