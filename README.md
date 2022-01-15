@@ -29,7 +29,12 @@ Contatos: [Site](https://www.natanet.xyz) | [Facebook](https://www.fb.com/natana
 
 Tecnologias utilizadas
 
-Python (https://www.python.org/static/img/python-logo.png)](https://www.python.org/)
-Sqlite (https://www.sqlite.org/images/sqlite370_banner.gif)](https://www.sqlite.org/)
+<p align="center">
+  <img alt="Logo do projeto" width="450px" src="https://www.python.org/static/img/python-logo.png" />
+</p>
+<p align="center">
+  <img alt="Logo do projeto" width="450px" src="https://www.sqlite.org/images/sqlite370_banner.gif" />
+</p>
+
 
 
