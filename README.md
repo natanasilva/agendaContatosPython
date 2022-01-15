@@ -29,7 +29,7 @@ Contatos: [Site](https://www.natanet.xyz) | [Facebook](https://www.fb.com/natana
 
 Tecnologias utilizadas
 
-Python
-Sqlite
+Python (https://www.python.org/static/img/python-logo.png)](https://www.python.org/)
+Sqlite (https://www.sqlite.org/images/sqlite370_banner.gif)](https://www.sqlite.org/)
 
 
