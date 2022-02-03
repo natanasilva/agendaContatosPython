@@ -1,6 +1,6 @@
 '''
 Metodos e funções a serem usadas no cad 
-produtos relacionado ao bd
+contatos relacionado ao bd
 '''
 import sqlite3
 
