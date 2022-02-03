@@ -1,4 +1,4 @@
-# Metodos e funções a serem usadas no cad produtos
+# Metodos e funções a serem usadas no cad contato
 
 from datetime import datetime
 from os import system
